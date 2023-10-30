@@ -23,3 +23,5 @@ There are four endpoints:
 
 NOTE: Replace ID with ID given by the database for operations.
 
+To start the Server just Write 'npm start' in the terminal. 
+
